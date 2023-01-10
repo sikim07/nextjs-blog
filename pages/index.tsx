@@ -13,76 +13,7 @@ export default function Home() {
           22
         </div>
         </div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
-      <div>teaildsasdfdsadsfaf</div>
+            <div>teaildsasdfdsadsfaf</div>
     </div>
     </MainBaseLayout>
   )
