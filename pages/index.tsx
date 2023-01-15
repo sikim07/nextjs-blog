@@ -14,7 +14,7 @@ export default function Home() {
         </div>
         </div>
             <div>teaildsasdfdsadsfaf</div>
-            <div>teaildsasdfdsadsfaf</div>
+            
             <div>teaildsasdfdsadsfaf</div>
             
             <div>teaildsasdfdsadsfaf</div>
