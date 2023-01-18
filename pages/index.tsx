@@ -1,6 +1,21 @@
 import MainBaseLayout from '../components/layouts/MainBaseLayout'
 
 export default function Home() {
+    const fetchData = async () => {
+        const res1 = await fetch('/api/', {
+            method: 'GET',
+        })
+
+        console.log(res1)
+
+        const res2 = await fetch('localhost:5500/test', {
+            method: 'GET',
+        })
+
+        console.log(res2)
+    }
+
+    fetchData()
     return (
         <MainBaseLayout>
             <div className="text-3xl font-bold underline text-green-600 text-center relative">
@@ -12,6 +27,7 @@ export default function Home() {
                     <div className="flex-1">11</div>
                     <div className="flex-1">22</div>
                 </div>
+                <div>teaildsasdfdsadsfaf</div>
                 <div>teaildsasdfdsadsfaf</div>
                 <div>teaildsasdfdsadsfaf</div>
                 <div>teaildsasdfdsadsfaf</div>
