@@ -2,17 +2,16 @@ import MainBaseLayout from '../components/layouts/MainBaseLayout'
 
 export default function Home() {
     const fetchData = async () => {
-        const res1 = await fetch('/api/', {
+        const res1 = await fetch('/', {
             method: 'GET',
         })
-
         console.log(res1)
-
-        const res2 = await fetch('localhost:5500/test', {
+        const res2 = await fetch('/test', {
             method: 'GET',
         })
-
         console.log(res2)
+
+        return res2
     }
 
     fetchData()
