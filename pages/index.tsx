@@ -30,6 +30,7 @@ export default function Home() {
                     <div className="flex-1">22</div>
                     <div className="flex-1">22</div>
                     <div className="flex-1">22</div>
+                    <div className="flex-1">22</div>
                 </div>
                 <div>teaildsasdfdsadsfaf</div>
             </div>
