@@ -24,13 +24,6 @@ export default function Home() {
                 test
                 <div className="flex">
                     <div className="flex-1">11</div>
-                    <div className="flex-1">11</div>
-                    <div className="flex-1">11</div>
-                    <div className="flex-1">11</div>
-                    <div className="flex-1">11</div>
-                    <div className="flex-1">11</div>
-                    <div className="flex-1">11</div>
-                    <div className="flex-1">11</div>
                 </div>
                 <div>teaildsasdfdsadsfaf</div>
             </div>
