@@ -13,7 +13,6 @@ export default function Home() {
         const response1 = await fetch('/', {
             method: 'GET',
         })
-        setRes1(response1)
         const response2 = await fetch('/test', {
             method: 'GET',
         })
@@ -32,6 +31,7 @@ export default function Home() {
                 <div className="flex">
                     <div className="flex-1">11</div>
                 </div>
+                <div>teaildsasdfdsadsfaf</div>
                 <div>teaildsasdfdsadsfaf</div>
             </div>
         </MainBaseLayout>
