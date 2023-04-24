@@ -12,12 +12,14 @@ export default function Home() {
     useEffect(() => {}, [])
     return (
         <MainBaseLayout>
-            <div className="text-3xl font-bold underline text-green-600 text-center relative">
+            <div className="relative text-3xl font-bold text-center text-green-600 underline">
                 <div className="text-3xl font-bold underline hover:ring-2 w-50 h-2/6 w-[35px]"></div>
                 test
                 <div className="flex">
                     <div className="flex-1">11</div>
                 </div>
+                <div>teaildsasdfdsadsfaf</div>
+                <div>teaildsasdfdsadsfaf</div>
                 <div>teaildsasdfdsadsfaf</div>
             </div>
         </MainBaseLayout>
