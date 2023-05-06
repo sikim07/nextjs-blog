@@ -19,17 +19,6 @@ export default function Home() {
                     <div className="flex-1">11</div>
                 </div>
                 <div>teaildsasdfdsadsfaf</div>
-                <div>teaildsasdfdsadsfaf</div>
-                <div>teaildsasdfdsadsfaf</div>
-                <div>teaildsasdfdsadsfaf</div>
-                <div>teaildsasdfdsadsfaf</div>
-                <div>teasildsasdfdsadsfaf</div>
-                <div>teasildsasdfdsadsfaf</div>
-                <div>teaildsasdfdsadsfaf</div>
-                <div>teaildsasdfdsadsfaf</div>
-                <div>teaildsasdfdsadsfaf</div>
-                <div>teaildsasdfdsadsfaf</div>
-                <div>teaildsasdfdsadsfaf</div>
             </div>
         </MainBaseLayout>
     )
