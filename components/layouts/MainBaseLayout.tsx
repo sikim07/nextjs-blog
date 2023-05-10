@@ -1,15 +1,15 @@
-import MainHeader from './MainHeader'
-import MainFooter from './MainFooter'
+import MainHeader from '@/components/layouts/MainHeader'
+import MainFooter from '@/components/layouts/MainFooter'
 import { ReactNode } from 'react'
 
-interface ComponentProps {
-    children: ReactNode
+const MainBaseLayout = ({ children }: { children: ReactNode }) => {
+    return (
+        <>
+            <MainHeader />
+            {children}
+            <MainFooter />
+        </>
+    )
 }
 
-export default function MainBaseLayout({children}: ComponentProps) {
-    return <>
-<MainHeader />
-{children}
-<MainFooter />
-    </>
-}
+export default MainBaseLayout
