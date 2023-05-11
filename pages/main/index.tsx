@@ -4,6 +4,7 @@ const Main = () => {
             Main page
             <div>Main page</div>
             <div>Main page</div>
+            <div>Main page</div>
         </div>
     )
 }
