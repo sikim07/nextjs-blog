@@ -1,4 +1,8 @@
 const Main = () => {
-    return <div>Main page</div>
+    return (
+        <div>
+            <div>adsfkln</div>
+        </div>
+    )
 }
 export default Main
